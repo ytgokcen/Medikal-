@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\medical\\medical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF67D866-3657-4C30-AC14-B3219318ED2C}|medical\\medical.csproj|c:\\users\\pc\\desktop\\medical\\medical\\medical\\webapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF67D866-3657-4C30-AC14-B3219318ED2C}|medical\\medical.csproj|solutionrelative:medical\\webapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplication.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\medical\\medical\\medical\\WebApplication.cs",
+              "RelativeDocumentMoniker": "medical\\WebApplication.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\medical\\medical\\medical\\WebApplication.cs",
+              "RelativeToolTip": "medical\\WebApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:29:18.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

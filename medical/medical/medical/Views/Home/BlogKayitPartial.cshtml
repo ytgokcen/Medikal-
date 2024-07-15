@@ -1,0 +1,13 @@
+﻿@model IEnumerable<medical.Models.Model.Blog>
+@using medical.Helper;
+
+@foreach (var item in Model)
+{
+    <li>
+        <img src="@item.ResimURL" class="pull-left" alt="@item.Baslik" />
+        <h6><a href="/BlogPost/@SeoHelper.ToSeoUrl(item.Baslik).ToLower()-@item.BlogId">@item.Baslik</a></h6>
+        <p>
+            @Html.Raw(item.Icerik.Substring(0, 100))
+        </p>
+    </li>
+}

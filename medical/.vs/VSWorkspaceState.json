@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\medical",
+    "\\medical\\medical",
+    "\\medical\\medical\\Content\\SiteLayout",
+    "\\medical\\medical\\Content\\SiteLayout\\css",
+    "\\medical\\medical\\Views\\Blog",
+    "\\medical\\medical\\Views\\Home",
+    "\\medical\\medical\\Views\\Shared"
+  ],
+  "SelectedNode": "\\medical\\medical\\Web.config",
+  "PreviewInSolutionExplorer": false
+}
